@@ -26,3 +26,6 @@ untuk memberikan wawasan.
        | 502       | Sepatu Olahraga | Fashion      |
        | 503       | Buku            | Buku         |
        | ...       | ...             | ...          |
+2. **ETL Process** :
+3. **OLAP Process** :
+4. **Visualisasi** :
