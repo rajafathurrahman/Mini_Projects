@@ -26,6 +26,6 @@ untuk memberikan wawasan.
        | 502       | Sepatu Olahraga | Fashion      |
        | 503       | Buku            | Buku         |
        | ...       | ...             | ...          |
-2. **ETL Process** :
-3. **OLAP Process** :
-4. **Visualisasi** :
+2. **ETL Process** : Gambarkan langkah-langkah ETL untuk mengambil data penjualan harian dari sumber eksternal (misalnya, file CSV), mentransformasikannya untuk normalisasi format tanggal dan pengolahan data lainnya, dan memuatnya ke dalam data warehouse.
+3. **OLAP Process** : Tentukan pertanyaan analitis spesifik yang dapat dijawab melalui OLAP. Contohnya: "Bagaimana tren penjualan produk tertentu selama dua kuartal terakhir?" Gambarkan query OLAP untuk menjawab pertanyaan tersebut menggunakan data di data warehouse.
+4. **Visualisasi** : Pilih alat visualisasi data (misalnya, Tableau) dan buat dashboard yang menyajikan informasi yang berguna untuk manajemen. Termasuk grafik garis untuk menunjukkan tren penjualan, diagram batang untuk produk terlaris, dan peta geografis untuk menampilkan distribusi pelanggan.
