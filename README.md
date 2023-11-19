@@ -38,3 +38,6 @@ untuk memberikan wawasan.
 **Visualisasi** : Pilih alat visualisasi data (misalnya, Tableau) dan buat dashboard yang menyajikan informasi yang berguna untuk manajemen. Termasuk grafik garis untuk menunjukkan tren penjualan, diagram batang untuk produk terlaris, dan peta geografis untuk menampilkan distribusi pelanggan.
 
 contoh : ini merupakan tools untuk visualisasi di webapps [Streamlit](https://ozgunhaznedar-swiss-renewable-energy-app-srcmain-p0dfd5.streamlit.app/)
+
+## Tugas !! 
+Buatlah process untuk sistem datawarehouse dari design, ETL hinggal visualisasi dan tugas dapat dibuat dalam bentuk **dokumntasi github**, **artikel Medium**, **Video youtube** atau sejenisnya yang dapat menerangkan proses design, ETL dan visualisasi dari datawarehouse .
