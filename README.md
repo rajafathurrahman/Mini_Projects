@@ -41,3 +41,10 @@ contoh : ini merupakan tools untuk visualisasi di webapps [Streamlit](https://oz
 
 ## Tugas !! 
 Buatlah process untuk sistem datawarehouse dari design, ETL hinggal visualisasi dan tugas dapat dibuat dalam bentuk **dokumntasi github**, **artikel Medium**, **Video youtube** atau sejenisnya yang dapat menerangkan proses design, ETL dan visualisasi dari datawarehouse .
+
+## Data :
+ini adalah data yang dapat diguakan untuk proses datawarehouse Design
+
+[edmonton](https://data.edmonton.ca/dataset/Water-Levels-and-Flows-Monitoring-Station-List/4xiv-jrdx)
+
+[data penjualan dan transaksi](https://github.com/rajafathurrahman/Mini_Projects/tree/main/data)
