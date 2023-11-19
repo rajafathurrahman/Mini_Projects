@@ -30,8 +30,9 @@ untuk memberikan wawasan.
 
    contoh :
    ![alt text](https://github.com/rajafathurrahman/Mini_Projects/blob/main/Blank%20diagram%20(3).png)
-4. **OLAP Process** : Tentukan pertanyaan analitis spesifik yang dapat dijawab melalui OLAP. Contohnya: "Bagaimana tren penjualan produk tertentu selama dua kuartal terakhir?" Gambarkan query OLAP untuk menjawab pertanyaan tersebut menggunakan data di data warehouse.
+3. **OLAP Process** : Tentukan pertanyaan analitis spesifik yang dapat dijawab melalui OLAP. Contohnya: "Bagaimana tren penjualan produk tertentu selama dua kuartal terakhir?" Gambarkan query OLAP untuk menjawab pertanyaan tersebut menggunakan data di data warehouse.
 
-   contoh :
-   [query untuj OLAP](https://github.com/rajafathurrahman/Mini_Projects/tree/main/SQL)
-6. **Visualisasi** : Pilih alat visualisasi data (misalnya, Tableau) dan buat dashboard yang menyajikan informasi yang berguna untuk manajemen. Termasuk grafik garis untuk menunjukkan tren penjualan, diagram batang untuk produk terlaris, dan peta geografis untuk menampilkan distribusi pelanggan.
+   contoh : dari link [query untuk OLAP](https://github.com/rajafathurrahman/Mini_Projects/tree/main/SQL) query untuk melakukan proses OLAP seperti RANK(), ROLLUP dan lainya.
+
+### Optional
+**Visualisasi** : Pilih alat visualisasi data (misalnya, Tableau) dan buat dashboard yang menyajikan informasi yang berguna untuk manajemen. Termasuk grafik garis untuk menunjukkan tren penjualan, diagram batang untuk produk terlaris, dan peta geografis untuk menampilkan distribusi pelanggan.
