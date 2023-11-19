@@ -36,3 +36,5 @@ untuk memberikan wawasan.
 
 ### Optional
 **Visualisasi** : Pilih alat visualisasi data (misalnya, Tableau) dan buat dashboard yang menyajikan informasi yang berguna untuk manajemen. Termasuk grafik garis untuk menunjukkan tren penjualan, diagram batang untuk produk terlaris, dan peta geografis untuk menampilkan distribusi pelanggan.
+
+contoh : ini merupakan tools untuk visualisasi di webapps [Streamlit](https://ozgunhaznedar-swiss-renewable-energy-app-srcmain-p0dfd5.streamlit.app/)
